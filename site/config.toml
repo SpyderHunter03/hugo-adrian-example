@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "localhost:1313"
+baseURL = "https://spyderhunter03.github.io/hugo-adrian-example/"
 languageCode = "en-us"
 title = "Adrian Hugo | E-commerce template"
 theme = "adrian-hugo"
